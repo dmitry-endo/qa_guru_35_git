@@ -1,1 +1,1 @@
-# qa_guru_35_git
+# qa.guru | 2. Git. Github.
